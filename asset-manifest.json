@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alexandrvorontsov/goit-react-hw-02-feedback/static/css/main.06ca8942.css",
+    "main.js": "/alexandrvorontsov/goit-react-hw-02-feedback/static/js/main.e48fb946.js",
+    "index.html": "/alexandrvorontsov/goit-react-hw-02-feedback/index.html",
+    "main.06ca8942.css.map": "/alexandrvorontsov/goit-react-hw-02-feedback/static/css/main.06ca8942.css.map",
+    "main.e48fb946.js.map": "/alexandrvorontsov/goit-react-hw-02-feedback/static/js/main.e48fb946.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06ca8942.css",
+    "static/js/main.e48fb946.js"
+  ]
+}
